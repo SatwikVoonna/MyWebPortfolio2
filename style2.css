@@ -1,0 +1,11 @@
+html,body{
+    text-align: center;
+    background-color: cornsilk;
+}
+.header{
+    background-color: cyan;
+    display:flex;
+    text-align: center;
+    
+   
+}
